@@ -9,3 +9,5 @@ This contains the implementation of Neural Networks in Tensorflow 2.0
 
 ## Course 2 Customization
 This contains all custom models and their tweaking in tf 2.0
+1st week intro to data augmentation
+2nd week data pipelines in various formats
